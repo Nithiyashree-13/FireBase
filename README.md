@@ -1,3 +1,3 @@
 # FireBase
 
-## Firebase
+## Fire Base
